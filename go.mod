@@ -2,15 +2,14 @@ module github.com/nbcx/go-orm
 
 go 1.23.0
 
-replace github.com/nbcx/log => ../log
+// replace github.com/nbcx/log => ../log
 
 require (
-	github.com/beego/beego/v2 v2.3.1
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/hashicorp/golang-lru v1.0.2
 	github.com/lib/pq v1.10.9
 	github.com/mattn/go-sqlite3 v1.14.23
-	github.com/nbcx/log v0.0.0-20240929031720-b28ab0992f48
+	github.com/nbcx/log v0.0.0-20240930015725-93fd57344b7b
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/prometheus/client_golang v1.20.4
 	github.com/stretchr/testify v1.9.0

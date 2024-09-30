@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/beego/beego/v2/core/bean"
+	"github.com/nbcx/go-orm/bean"
 	"github.com/nbcx/go-orm/orm"
 	"github.com/nbcx/log"
 )

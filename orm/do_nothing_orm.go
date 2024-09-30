@@ -4,7 +4,7 @@ import (
 	"context"
 	"database/sql"
 
-	"github.com/beego/beego/v2/core/utils"
+	"github.com/nbcx/go-orm/orm/internal/utils"
 )
 
 // DoNothingOrm won't do anything, usually you use this to custom your mock Ormer implementation

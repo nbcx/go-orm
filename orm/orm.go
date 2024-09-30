@@ -48,9 +48,9 @@ import (
 
 	"github.com/nbcx/go-orm/orm/internal/models"
 
-	"github.com/beego/beego/v2/core/utils"
 	"github.com/nbcx/go-orm/orm/clauses/order_clause"
 	"github.com/nbcx/go-orm/orm/hints"
+	"github.com/nbcx/go-orm/orm/internal/utils"
 )
 
 // DebugQueries define the debug

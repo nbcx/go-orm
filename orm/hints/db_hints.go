@@ -15,7 +15,7 @@
 package hints
 
 import (
-	"github.com/beego/beego/v2/core/utils"
+	"github.com/nbcx/go-orm/orm/internal/utils"
 )
 
 const (
